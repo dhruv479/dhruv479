@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center">A passionate javascript developer from India</h3>
 
-- 🔭 I’m currently working on **javascript technologies**
+- 🔭 I’m currently working on **javascript, python technologies**
 
 - 🌱 I’m currently learning **Golang, Flutter**
 
-- 💬 Ask me about **javascript, databases.**
+- 💬 Ask me about **javascript, python, databases and cloud.**
 
 - 📫 How to reach me **me@dhruv479.dev**
 
